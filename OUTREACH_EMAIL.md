@@ -14,7 +14,7 @@ vorbereitet. Die bestehenden Inhalte bleiben erhalten: Startseite, Malerei-
 Referenzen, Lackiererei, MetaLine-Beschichtungen, Über-mich-Bereich und Kontakt.
 Ich habe sie nur moderner, übersichtlicher und besser für Handy-Nutzer aufgebaut:
 
-[PROTOTYP-LINK EINFÜGEN]
+https://stark24-ag.github.io/walter-jundt-redesign/
 
 Die Idee dahinter: Ihre wichtigsten Leistungen, Referenzen und Kontaktmöglichkeiten
 sollen auf einen Blick sichtbar sein, besonders für Kunden, die schnell eine

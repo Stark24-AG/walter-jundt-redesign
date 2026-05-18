@@ -2,6 +2,9 @@
 
 Unverbindliches Redesign-Konzept für das Malergeschäft Walter Jundt in Huttwil.
 
+Live-Prototyp:
+https://stark24-ag.github.io/walter-jundt-redesign/
+
 ## Inhalt
 
 - Moderne One-Page-Struktur für Malerei, Lackiererei und Spritzarbeiten
