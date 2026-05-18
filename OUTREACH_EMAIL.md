@@ -1,6 +1,6 @@
 # Outreach-Mail
 
-Betreff: Kurzer Website-Vorschlag für Ihr Malergeschäft
+Betreff: Vollständiger Website-Vorschlag für Ihr Malergeschäft
 
 Guten Tag Herr Jundt
 
@@ -9,7 +9,10 @@ Anschauen Ihrer aktuellen Website ist mir aufgefallen, dass Ihre Erfahrung,
 Referenzen und Lackierarbeiten zwar vorhanden sind, aber auf dem Handy und auf
 der Startseite noch deutlich klarer präsentiert werden könnten.
 
-Ich habe deshalb unverbindlich einen kleinen Redesign-Entwurf für Sie vorbereitet:
+Ich habe deshalb unverbindlich einen vollständigen Redesign-Entwurf für Sie
+vorbereitet. Die bestehenden Inhalte bleiben erhalten: Startseite, Malerei-
+Referenzen, Lackiererei, MetaLine-Beschichtungen, Über-mich-Bereich und Kontakt.
+Ich habe sie nur moderner, übersichtlicher und besser für Handy-Nutzer aufgebaut:
 
 [PROTOTYP-LINK EINFÜGEN]
 

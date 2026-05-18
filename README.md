@@ -6,7 +6,8 @@ Unverbindliches Redesign-Konzept für das Malergeschäft Walter Jundt in Huttwil
 
 - Moderne One-Page-Struktur für Malerei, Lackiererei und Spritzarbeiten
 - Klare Kontaktwege mit Telefon, Mobilnummer und E-Mail
-- Referenzbereich basierend auf den öffentlich sichtbaren Referenzen der aktuellen Website
+- Vollständiger Referenzbereich mit allen öffentlich sichtbaren Malerei-Bildergruppen
+- Lackiererei-Bildstrecke mit allen öffentlich sichtbaren MetaLine- und Lackiererei-Bildern
 - Responsive Layout für Desktop und Mobile
 
 ## Hinweis
